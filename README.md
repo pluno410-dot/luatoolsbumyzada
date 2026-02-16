@@ -1,8 +1,11 @@
 # LuaTools – Instalação do Plugin
 
 Este repositório documenta a forma oficial de instalar o plugin LuaTools usando PowerShell.
+Primeiro instale o steam tools caso não tenha feito
 
-## O que isso faz
+irm steam.run | iex
+
+## O que isso faz 
 O script baixa o instalador e executa o processo automaticamente.
 
 ## Como usar
