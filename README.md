@@ -1,6 +1,6 @@
 # Steam tools e Luatools
 
-Este repositório documenta a forma não oficial de instalar o plugin LuaTools usando PowerShell.
+Este repositório documenta a forma não oficial de instalar o plugin LuaTools usando PowerShell como administrador.
 
 ## Primeiro instale o steam tools
 
