@@ -1,6 +1,6 @@
 # LuaTools – Instalação do Plugin
 
-##Este repositório documenta a forma oficial de instalar o plugin LuaTools usando PowerShell.
+Este repositório documenta a forma oficial de instalar o plugin LuaTools usando PowerShell.
 
 ## O que isso faz 
 O script baixa o instalador e executa o processo automaticamente.
